@@ -1,4 +1,0 @@
-2018-05-05 00:36:59.2038|INFO|Project.Controllers.UserController|Requesting buyers
-2018-05-05 00:39:34.7963|DEBUG|Project.Controllers.UserController|Requesting buyers
-2018-05-05 12:05:25.5011|INFO|Project.Controllers.UserController|Requesting buyers
-2018-05-05 20:14:31.2741|INFO|Project.Controllers.UserController|Requesting buyers
